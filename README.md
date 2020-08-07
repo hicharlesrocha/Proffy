@@ -1,24 +1,16 @@
 <h2 align="center">
-<a href="https://proffy-mauve-omega.vercel.app/">  
 <img src="https://img.shields.io/badge/Next%20Level%20Week-%232-blueviolet?style=for-the-badge" alt="Curso Next Leve Week #2" />
-</a>
 
-<a href="https://proffy-mauve-omega.vercel.app/">  
-<img src="https://img.shields.io/badge/web%3F-ok-blueviolet?style=for-the-badge" alt="Sistema web Ok" />
-</a>
+<img src="https://img.shields.io/badge/server%3F-Yes-blueviolet?style=for-the-badge" alt="Sistema web Yes" />
 
-<a href="https://proffy-mauve-omega.vercel.app/">  
 <img src="https://img.shields.io/badge/server%3F-Yes-blueviolet?style=for-the-badge" alt="Sevidor web Yes" />
-</a>
 
-<a href="https://proffy-mauve-omega.vercel.app/">  
 <img src="https://img.shields.io/badge/app mobile%3F-Yes-blueviolet?style=for-the-badge" alt="Aplicativo mobile Yes" />
-</a>
 
 </h2>
 
 <h1 align="center">
-  		<img src="https://repository-images.githubusercontent.com/285049464/92458900-d744-11ea-8a78-36754300c647" alt="Logo da Proffy" />
+    <img src="https://repository-images.githubusercontent.com/285049464/92458900-d744-11ea-8a78-36754300c647" alt="Logo da Proffy" />
 </h1>
 
 ## ❔ Sobre o projeto
